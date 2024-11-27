@@ -1,0 +1,6 @@
+example example.com
+g google.com
+gh github.com
+
+# This is a comment
+test test.example.com
